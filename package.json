@@ -1,0 +1,18 @@
+{
+  "name": "component-tag",
+  "version": "0.0.0",
+  "description": "Generate dynamic image for component Readmes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "canvas": "~0.13.1",
+    "component": "~0.9.0",
+    "ms": "~0.4.0",
+    "express": "~3.0.1"
+  }
+}
